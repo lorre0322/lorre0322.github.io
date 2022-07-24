@@ -43,3 +43,10 @@
 .more .next:hover .nav-title {
   color: #c8967f;
 }
+#onload_comment {
+  text-align: center;
+  border-radius: 5px;
+  margin: 30px auto 0;
+  padding: 20px;
+  border: 1px solid rgba(0,0,0,0.2);
+}

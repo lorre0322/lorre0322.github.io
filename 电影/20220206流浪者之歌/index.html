@@ -4,7 +4,7 @@
     
 <title>
 	
-	Hexo | 流浪者之歌
+	Lorre&#39;s Blog | 流浪者之歌
 	
 </title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -146,16 +146,17 @@
 		</div>
 		
 			<div id="Comments"></div>
-<div id="onload" style="height: 50px;"></div>
-
+<div id="onload_comment">
+	Load Discus
+</div>
 
 <script>
-	LsFun.$('#onload').addEventListener('click',function(){
+	LsFun.$('#onload_comment').addEventListener('click',function(){
 		Discuss.init({
 		  el: '#Comments',
 		  serverURLs: 'https://discuss-oz486f5hg-lorre0322.vercel.app/'
 		})
-		
+		LsFun.$('#onload_comment').style.display='none'
 	})
 
 </script>
