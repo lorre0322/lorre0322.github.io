@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'LeslieBase';
+  src: url("../font/Comic-Sans-MS.ttf");
+}
+@font-face {
+  font-family: 'LeslieLogo';
+  src: url("../font/logo.otf");
+}
+@font-face {
+  font-family: 'LeslieMenu';
+  src: url("../font/menu.ttf");
+}

@@ -1,0 +1,53 @@
+#page {
+  margin: 12px auto;
+  max-width: 640px;
+  font-family: 'LeslieBase';
+}
+#page .page {
+  margin: 12px;
+  padding: 15px;
+  border-radius: 18px;
+  background: #fff;
+}
+#page ul>li {
+  margin-left: 2em;
+  list-style: none;
+  line-height: 2.5em;
+}
+#page .page-title {
+  font-size: 25px;
+  font-weight: 700;
+  text-align: center;
+}
+#page .page-title .page-search {
+  font-size: 15px;
+  font-weight: 700;
+}
+#page .content {
+  margin-bottom: 20px;
+}
+#page .content .post-archive {
+  padding: 0 10px;
+}
+#page .content .post-archive .post-item .date {
+  font-size: 14px;
+}
+#page .content .post-archive .post-item .title {
+  margin-left: 10px;
+  font-size: 18px;
+}
+#page .content .year {
+  font-weight: 700;
+  font-size: 18px;
+}
+#page .content .tag-list {
+  margin-top: 20px;
+}
+#page .content .tag-list li {
+  border-radius: 10px;
+  font-size: 15px;
+  display: inline-block;
+  margin: 8px 8px;
+  padding: 0px 20px;
+  background: rgba(100,100,100,0.1);
+}

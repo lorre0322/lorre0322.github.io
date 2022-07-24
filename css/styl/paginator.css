@@ -1,0 +1,45 @@
+.page-nav {
+  padding: 0.5em 10px;
+  margin: 20px 0;
+  text-align: left;
+  font-weight: 700;
+  background: #fff;
+}
+.page-nav .page-number,
+.page-nav .extend {
+  padding: 5px 15px;
+}
+.page-nav .page-number.current {
+  color: #a52a2a;
+}
+.more {
+  margin-top: 2em;
+  padding: 3em 0;
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid rgba(200,200,200,0.2);
+  border-bottom: 1px solid rgba(200,200,200,0.2);
+  font-family: 'LeslieBase';
+  font-size: 14px;
+}
+.more .prev a,
+.more .next a {
+  display: flex;
+  justify-content: space-between;
+}
+.more .next {
+  text-align: right;
+}
+.more .nav-label {
+  color: #c8967f;
+  font-size: 12px;
+  transition: color 0.5s;
+}
+.more .nav-title {
+  font-weight: 700;
+  transition: color 0.5s;
+}
+.more .prev:hover .nav-title,
+.more .next:hover .nav-title {
+  color: #c8967f;
+}

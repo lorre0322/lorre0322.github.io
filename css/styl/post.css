@@ -1,0 +1,108 @@
+#content {
+  min-height: 100vh;
+  height: auto;
+  transition: all 0.5s;
+  background: #fff;
+  transition: all 0.5s;
+}
+#content .post-img {
+  height: 350px;
+  overflow: hidden;
+  transition: all 0.5s;
+}
+#content .post-img img {
+  width: 100%;
+  height: auto;
+}
+#content .post {
+  transition: all 0.5s;
+  padding: 20px 50px;
+}
+#content .post .page-title {
+  text-align: center;
+  transition: all 0.5s;
+  font-weight: 1400;
+  padding: 3em 0 2em;
+}
+#content .post .page-search {
+  font-size: 0.6em;
+}
+#content .page .container {
+  border-left: 1px solid rgba(204,220,100,0.8);
+  margin: 0;
+  padding: 1em 0 0 1.25em;
+}
+#content .page .container .post-item .date {
+  font-size: 0.9em;
+}
+#content .page .container .post-item .title {
+  font-size: 1.05em;
+  margin-left: 1.25em;
+}
+#content .page ul>li {
+  list-style: none;
+}
+#content .page .year {
+  font-size: 1.4em;
+  margin-left: -15px;
+}
+#content .page .category-list {
+  margin: 0;
+  padding: 0;
+}
+#content .page .category-list .category-list-item {
+  display: inline-block;
+  margin: 8px 10px;
+  padding: 5px 15px;
+  border-radius: 15px;
+  font-size: 0.9em;
+  background: rgba(200,200,200,0.2);
+}
+#content .page .category-list .category-list-item .category-list-count {
+  margin-left: 5px;
+  font-size: 12px;
+}
+#content .page .category-list .category-list-item .category-list-count::before {
+  content: '(  ';
+}
+#content .page .category-list .category-list-item .category-list-count::after {
+  content: '  )';
+}
+#content .page .tag-list {
+  margin: 0;
+  padding: 0;
+}
+#content .page .tag-list .tag-list-item {
+  display: inline-block;
+  margin: 8px 10px;
+  padding: 5px 15px;
+  border-radius: 15px;
+  font-size: 0.9em;
+  background: rgba(200,200,200,0.2);
+}
+#content .page .tag-list .tag-list-item .tag-list-count {
+  margin-left: 5px;
+  font-size: 12px;
+}
+#content .page .tag-list .tag-list-item .tag-list-count::before {
+  content: '(  ';
+}
+#content .page .tag-list .tag-list-item .tag-list-count::after {
+  content: '  )';
+}
+@media screen and (max-width: 1180px) {
+  #content {
+    margin: 0;
+    border-radius: 0;
+  }
+  #content .post-img {
+    height: 220px;
+    overflow: hidden;
+  }
+  #content .post {
+    padding: 0 15px;
+  }
+  #content .post .page-title {
+    padding: 2em 0 1.5em;
+  }
+}

@@ -1,0 +1,18 @@
+#post {
+  margin: 12px 12px;
+  font-family: 'LeslieBase';
+  border-radius: 18px;
+  background: #fff;
+  overflow: hidden;
+  font-size: 16px;
+}
+#post .post-img {
+  border-radius: 18px;
+  padding: 12px;
+  width: calc(100% - 24px);
+}
+#post #article-title a {
+  display: block;
+  text-align: center;
+  margin: 48px 18px;
+}

@@ -1,0 +1,38 @@
+.page-nav {
+  margin: 15px 12px;
+  padding: 15px 10px;
+  border-radius: 18px;
+  text-align: right;
+  font-weight: 700;
+  background: #fff;
+}
+.page-nav .page-number,
+.page-nav .extend {
+  padding: 5px 15px;
+}
+.page-nav .page-number.current {
+  color: #a52a2a;
+}
+.more {
+  margin-top: 2em;
+  padding: 2em 1.25em;
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  border-bottom: 1px solid rgba(200,200,200,0.4);
+}
+.more .prev a,
+.more .next a {
+  display: flex;
+  justify-content: space-between;
+}
+.more .next {
+  text-align: right;
+}
+.more .nav-label {
+  font-size: 16px;
+}
+.more .nav-title {
+  font-size: 14px;
+  font-weight: 700;
+}
