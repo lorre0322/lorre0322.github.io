@@ -286,16 +286,15 @@
     <link href="http://lorre0322.github.io/%E7%AC%94%E8%AE%B0/20230307Archlinux%E5%AE%89%E8%A3%85%E6%8C%87%E5%8C%97%EF%BC%88%E4%B8%89%EF%BC%89/"/>
     <id>http://lorre0322.github.io/%E7%AC%94%E8%AE%B0/20230307Archlinux%E5%AE%89%E8%A3%85%E6%8C%87%E5%8C%97%EF%BC%88%E4%B8%89%EF%BC%89/</id>
     <published>2022-03-07T08:32:00.000Z</published>
-    <updated>2023-08-15T06:57:54.503Z</updated>
+    <updated>2023-08-15T08:45:52.046Z</updated>
     
-    <content type="html"><![CDATA[<figure class="highlight js"><table><tr><td class="code"><pre><code class="hljs js">hello<br></code></pre></td></tr></table></figure><figure class="highlight go"><table><tr><td class="code"><pre><code class="hljs go">funck you<br></code></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">wdnmd<br></code></pre></td></tr></table></figure>  <div class="nt nt">  <div class="nt-ti">Don't do this</div>  <div class="nt-bd"><p>Hello this is just a test.<br>This is an another line.</p></div>  </div>    <div class="nt suc">  <div class="nt-ti">Don't do this</div>  <div class="nt-bd"><p>Hello this is just a test.<br>This is an another line.</p></div>  </div>    <div class="nt warn">  <div class="nt-ti">Don't do this</div>  <div class="nt-bd"><p>Hello this is just a test.<br>This is an another line.</p></div>  </div>    <div class="nt err">  <div class="nt-ti">Don't do this</div>  <div class="nt-bd"><p>Hello this is just a test.<br>This is an another line.</p></div>  </div>  ]]></content>
+    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p>在window 11更新后，偶尔的卡顿，动画的掉帧，💩 般的界面，繁琐的操作都令我痛苦不堪。在机缘巧合下，看到up主theCW的视频，用的是dwm。自动平铺，键盘流，受此诱惑就成为了众多arch教徒之一。</p></blockquote><p><img src="/img/linux/mydwm.gif" alt="mydwm"></p>  <div class="nt nt">  <div class="nt-ti">Don't do this</div>  <div class="nt-bd"><p>Hello this is just a test.<br>This is an another line.</p></div>  </div>    <div class="nt suc">  <div class="nt-ti">Don't do this</div>  <div class="nt-bd"><p>Hello this is just a test.<br>This is an another line.</p></div>  </div>    <div class="nt warn">  <div class="nt-ti">Don't do this</div>  <div class="nt-bd"><p>Hello this is just a test.<br>This is an another line.</p></div>  </div>    <div class="nt err">  <div class="nt-ti">Don't do this</div>  <div class="nt-bd"><p>Hello this is just a test.<br>This is an another line.</p></div>  </div>  ]]></content>
     
     
       
       
-    <summary type="html">&lt;figure class=&quot;highlight js&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;code class=&quot;hljs js&quot;&gt;hello&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-
-&lt;figu</summary>
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;在window 11更新后，偶尔的卡顿，动画的掉帧，💩 般的界面，繁琐的操作都令我痛苦不堪。在机缘巧合下，看到u</summary>
       
     
     
