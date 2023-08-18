@@ -1,1 +1,1 @@
-.arti{margin:20px 0}.arti time{font-size:14px}.arti time::before{content:"/";padding:0 10px}.cont h1::before{content:"#";color:var(--tx-se);padding-right:10px}.arti:first-of-type{margin:10px 0 20px 0}
+.arti{margin:20px 0}.arti time{font-size:14px}.arti time::before{content:"/";padding:0 10px}.cont h1::before{content:"#";color:var(--tx-se);padding-right:10px}.cont a{color:var(--hl-key)}.arti:first-of-type{margin:10px 0 20px 0}
