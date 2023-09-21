@@ -1,4 +1,6 @@
 const play_list=[
-    "/music/like_a_star.mp3",
-    "/music/shall_we_dance.mp3",
+    "/music/For_River.mp3",
+    "/music/His_Theme.mp3",
+    "/music/Shall_We_Dance.mp3",
+    "/music/星河.mp3",
 ]
