@@ -4,57 +4,6 @@
   
     
     <entry>
-      <title></title>
-      <link href="/Untitled%201/"/>
-      <url>/Untitled%201/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/Untitled/"/>
-      <url>/Untitled/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>「 关于我 」</title>
-      <link href="/20230930/"/>
-      <url>/20230930/</url>
-      
-        <content type="html"><![CDATA[<p>我来自羊城广州，你可以称呼我为<code>咩阿</code>或者Lorre。为什么是Lorre呢，仅仅是因为跟我原名的粤语发音很像，入职后就一路用下来了啊哈哈哈哈，简单又好记。</p><p><strong>我喜欢</strong><br>编程、游戏、看书、跑步，都是我的心头好。我尤其喜欢的游戏是《去月球》和《寻找天堂》，网站的背景音乐也引用了这两部作品的主题曲。</p><p><strong>头像</strong><br><a href="/img/avantar.png"><img class="av" src="/img/avantar.png" alt="lorre"></a>来自于一部我很喜欢的古早动画《听见涛声》，讲述的是一个再简单不过的故事了，但给我的感受却极深。</p><p><strong>藏身处</strong><br><code>邮箱</code><a href="mailto:lorre0322@foxmail.com"> lorre0322@foxmail.com</a><br><code>网易云</code><a href="https://music.163.com/#/artist?id=49898034"> 无心目睹案发现场的热心市民</a><br><code>bilibili</code><a href="https://space.bilibili.com/650313886"> Lorre0322</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 随笔 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> about </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>夏天</title>
       <link href="/%E9%9A%8F%E7%AC%94/20230611%E5%A4%8F%E5%A4%A9/"/>
       <url>/%E9%9A%8F%E7%AC%94/20230611%E5%A4%8F%E5%A4%A9/</url>
@@ -740,6 +689,31 @@
         <tags>
             
             <tag> 生活碎片 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>「 关于我 」</title>
+      <link href="/%E9%9A%8F%E7%AC%94/19980322/"/>
+      <url>/%E9%9A%8F%E7%AC%94/19980322/</url>
+      
+        <content type="html"><![CDATA[<p>我来自羊城广州，你可以称呼我为<code>咩阿</code>或者Lorre。为什么是Lorre呢，仅仅是因为跟我原名的粤语发音很像，入职后就一路用下来了啊哈哈哈哈，简单又好记。</p><p><strong>我喜欢</strong><br>编程、游戏、看书、跑步，都是我的心头好。我尤其喜欢的游戏是《去月球》和《寻找天堂》，网站的背景音乐也引用了这两部作品的主题曲。</p><p><strong>头像</strong><br><a href="/img/avantar.png"><img class="av" src="/img/avantar.png" alt="lorre"></a>来自于一部我很喜欢的古早动画《听见涛声》，讲述的是一个再简单不过的故事了，但给我的感受却极深。</p><p><strong>藏身处</strong><br><code>邮箱</code><a href="mailto:lorre0322@foxmail.com"> lorre0322@foxmail.com</a><br><code>网易云</code><a href="https://music.163.com/#/artist?id=49898034"> 无心目睹案发现场的热心市民</a><br><code>bilibili</code><a href="https://space.bilibili.com/650313886"> Lorre0322</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> about </tag>
             
         </tags>
       
